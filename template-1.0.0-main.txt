@@ -1,8 +1,10 @@
 This is the main template
 This is 1.0.1_GREG branch
+This has 1.0.1TEAM
+This is 1.0.1-combined
 
 Do this
-method 1G
+method 1T
 method 2G
 
 Do that
