@@ -9,3 +9,5 @@ Do that
 method a
 method b
 
+Do the other
+method z
