@@ -1,0 +1,10 @@
+This is the main template
+
+Do this
+method 1
+method 2
+
+Do that
+method a
+method b
+
